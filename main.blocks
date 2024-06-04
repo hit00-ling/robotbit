@@ -1,1 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="cRWS};Z7h%s-h_$m38/5" x="205" y="0"></block><block type="pxt-on-start" id="W6^mbxSx*)YF?#Pq0it%" x="144" y="194"><statement name="HANDLER"><block type="sloth_cali_by_button" id="Mt$*R,IiD_9@EW)AV1.:"></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="cRWS};Z7h%s-h_$m38/5" x="0" y="0"></block><block type="pxt-on-start" id="W6^mbxSx*)YF?#Pq0it%" x="91" y="212"><statement name="HANDLER"><block type="device_show_leds" id="478_)Qe%~9cr^%X_S{V["><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="sloth_do_action" id="BIT{8(,[6z*Z(GoVbwu4"><value name="action"><shadow type="sloth_actions" id="/ZMQXpl?4mS~jtbQO*?s"><field name="action">sloth.action_name.walk</field></shadow></value><value name="step"><shadow type="math_number" id="HUj6=k[C2*@,M:vGK*^v"><field name="NUM">5</field></shadow></value><value name="speed"><shadow type="math_number_minmax" id="_Hiy*SZ8q4pA0bTYeWME"><mutation min="1" max="100" label="Speed" precision="0"></mutation><field name="SLIDER">100</field></shadow></value><next><block type="sloth_stand_still" id="F%.W:DuVc9c1~-1rmWS."><next><block type="device_show_leds" id=";wizs~g!)$v{1(IQ[AxC"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></next></block></next></block></statement></block></xml>

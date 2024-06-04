@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "sloth": "github:sunfounder/pxt-sloth#v1.0.9",
+        "sloth": "github:hit00-ling/pxt-sloth#1f1a2898b9e175d080be79276b16a3dd39168874",
         "robotbit": "github:kittenbot/pxt-robotbit#v0.4.6"
     },
     "files": [
